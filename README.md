@@ -1,0 +1,1 @@
+# Uni Global Illumination Disabler
